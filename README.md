@@ -10,3 +10,8 @@ My idea in a nutshell is to turn a decent size set of reviews into a corpus and 
 Algorithmic Methodology
 ==================================
 My approach to this problems the following main steps.
+<ol>
+<li>Bird</li>
+<li>McHale</li>
+<li>Parish</li>
+</ol>
